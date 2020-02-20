@@ -4,7 +4,10 @@
 TagManager:
   serializedVersion: 2
   tags:
+  - point_1000
   - enemy
+  - point_2500
+  - immunity_powerup
   layers:
   - Default
   - TransparentFX
